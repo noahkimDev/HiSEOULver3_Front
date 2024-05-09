@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* body {
+  background: #000;
+} */
+
+.slider {
+  margin: 0 20px;
+  overflow: "hidden";
+  padding: 2rem 0;
+}
+
+.slider img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.react-multi-carousel-list {
+  padding: 0rem 0 2rem 0;
+}
+
+.custom-dot-list-style button {
+  border: none;
+  background: rgb(255, 68, 68);
+}
+.react-multi-carousel-dot.react-multi-carousel-dot--active button {
+  background: rgb(255, 68, 68) !important;
+}
+
+/* Carousel 아이템에 대한 스타일 */
+.carousel-item {
+  position: relative;
+  padding-right: 100px; /* 오른쪽 화살표를 위한 공간 */
+  padding-left: 100px; /* 왼쪽 화살표를 위한 공간 */
+}
+
+/* 화살표 스타일 조정 */
+.carousel-control-prev,
+.carousel-control-next {
+  z-index: 1;
+  top: 50%;
+  width: auto;
+  transform: translateY(-50%);
+}
+
+.carousel-control-prev {
+  left: 10px;
+}
+
+.carousel-control-next {
+  right: 10px;
+}
