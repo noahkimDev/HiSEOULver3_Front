@@ -30,7 +30,8 @@ function SignUp() {
   }
 
   function submitInfo() {
-    if (Email !== "" || Name !== "" || Password !== "" || ConPassword !== "") {
+    if (Email === "" || Name === "" || Password === "" || ConPassword === "") {
+      // console.log(Email, Name, Password, ConPassword);
       return alert("All information must be provided");
     } else if (Password === ConPassword) {
       const body = { email: Email, name: Name, password: Password };

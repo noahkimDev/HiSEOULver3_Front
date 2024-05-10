@@ -133,7 +133,7 @@ function Comment(props) {
       return b.id - a.id;
     }
     if (callAxios.data.success) {
-      console.log(callAxios.data.allComments, "정렬 전");
+      // console.log(callAxios.data.allComments, "정렬 전");
       let array = callAxios.data.allComments.sort(compareDates);
       console.log(array, "1");
       setAllComments(array);
