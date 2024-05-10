@@ -33,6 +33,7 @@
 
 <br>
 ## Database Schema
+
 ![Untitled (1)](https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/7f22519e-5fa5-4045-837b-9e62de69800f)
 
 
