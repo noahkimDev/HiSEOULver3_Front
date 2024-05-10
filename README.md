@@ -29,13 +29,14 @@
 ## 기능시현
 - 기능시현 모음 링크 : https://buly.kr/4FqGqx9
 
-
-## Stack
 <img src = "https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/c075795b-b596-4d87-ab16-524d23be479a" width = "500" height="300">
 
 <br>
 <br>
+
 ## Database Schema
+
+
 <br>
 <br>
 <img src = "https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/7f22519e-5fa5-4045-837b-9e62de69800f" width="500" height="300">
