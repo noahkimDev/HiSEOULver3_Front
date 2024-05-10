@@ -1,4 +1,4 @@
-## About
+## About HiSEOUL 
 - 외국인들을 위한 서울 가이드
 - 서울에 거주하는 외국인들을 대상으로 문화&생활정보를 제공하고자 서비스를 기획하게 되었습니다.( 필요한 정보에 대한 수요- 직접 설문조사)
 - 설문지 링크 : https://bit.ly/3p3nE4p
@@ -36,8 +36,6 @@
 
 ## Database Schema
 
-
-<br>
 <br>
 <img src = "https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/7f22519e-5fa5-4045-837b-9e62de69800f" width="500" height="300">
 <!-- ![Untitled (1)](https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/7f22519e-5fa5-4045-837b-9e62de69800f) -->
