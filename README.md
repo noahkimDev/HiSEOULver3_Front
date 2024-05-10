@@ -6,6 +6,7 @@
 - 아키텍처
 
 <br>
+
 ## Stack
 <div>
   <h4>Front-End</h4>
@@ -23,12 +24,13 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sequelize-E34F26?style=for-the-badge&logo=sequelize&logoColor=white">
 </div>  
-
 <br>
-## 기능시현
 
+## 기능시현
 - 기능시현 모음 링크 : https://buly.kr/4FqGqx9
 
+
+## Stack
 <img src = "https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/c075795b-b596-4d87-ab16-524d23be479a" width = "500" height="300">
 
 <br>
