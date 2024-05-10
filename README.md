@@ -5,7 +5,7 @@
 - 1인 개발
 - 아키텍처
 
-
+<br>
 ## Stack
 <div>
   <h4>Front-End</h4>
@@ -24,10 +24,15 @@
   <img src="https://img.shields.io/badge/sequelize-E34F26?style=for-the-badge&logo=sequelize&logoColor=white">
 </div>  
 
-
+<br>
 ## 기능시현
 
 모든 기능시현 모음 링크 : https://buly.kr/4FqGqx9
 
-[스크린캐스트 2024년 05월 10일 16시 29분 08초.webm](https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/0a18dcf2-4ca2-4488-bbfa-0695e77c3112)
+![시현 (1)](https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/c075795b-b596-4d87-ab16-524d23be479a)
+
+<br>
+## Database Schema
+![Untitled (1)](https://github.com/noahkimDev/HiSEOULver3_front/assets/68933325/7f22519e-5fa5-4045-837b-9e62de69800f)
+
 
